@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=appSudoku
+Exec=appSudoku
+Icon=appSudoku
+Categories=Development;
